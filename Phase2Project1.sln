@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalLibrary", "BalLibrary\BalLibrary.csproj", "{04790433-0162-4FA9-B8D3-8D882F6E1871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalLib", "DalLib\DalLib.csproj", "{5683D3CA-D6A4-4AD6-BF1E-86F2836C64BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Project2\Project2.csproj", "{8AB1ECFB-A569-4BFC-A834-C5D506AF5E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04790433-0162-4FA9-B8D3-8D882F6E1871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04790433-0162-4FA9-B8D3-8D882F6E1871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04790433-0162-4FA9-B8D3-8D882F6E1871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04790433-0162-4FA9-B8D3-8D882F6E1871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5683D3CA-D6A4-4AD6-BF1E-86F2836C64BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5683D3CA-D6A4-4AD6-BF1E-86F2836C64BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5683D3CA-D6A4-4AD6-BF1E-86F2836C64BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5683D3CA-D6A4-4AD6-BF1E-86F2836C64BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB1ECFB-A569-4BFC-A834-C5D506AF5E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB1ECFB-A569-4BFC-A834-C5D506AF5E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB1ECFB-A569-4BFC-A834-C5D506AF5E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB1ECFB-A569-4BFC-A834-C5D506AF5E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541796C5-3418-4F7F-8AC0-5B4D90E12C0D}
+	EndGlobalSection
+EndGlobal
